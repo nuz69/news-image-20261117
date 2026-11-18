@@ -1,4 +1,6 @@
-[![make.fun](https://img.shields.io/badge/make.fun-news--image--20261117-blue)](https://make.fun) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE) [![Python 3.13](https://img.shields.io/badge/python-3.13-blue.svg)](https://www.python.org/)
+[![make.fun · news-image-20261117](https://make.fun/badge/news-image-20261117.svg)](https://make.fun/bounty/news-image-20261117?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261117)
+[![rank](https://make.fun/badge/news-image-20261117/nuz69/news-image-20261117/rank.svg)](https://make.fun/bounty/news-image-20261117/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261117)
+[![reward](https://make.fun/badge/news-image-20261117/nuz69/news-image-20261117/reward.svg)](https://make.fun/bounty/news-image-20261117?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261117)
 
 # THE WORLD TODAY — Tuesday, 17 November 2026
 
@@ -31,3 +33,13 @@ Reuters, AP, BBC, Al Jazeera.
 The image is an original illustrated front page (no photographs, no borrowed artwork). 
 - **Payout Wallet:** `6WWpdAgWKUaDaodaGeUv8xeh2oD1AofW6X2jG8zi2KKb`
 - **License:** MIT
+
+## Run it
+
+```sh
+mkdir -p out && MAKEFUN_OUTPUT_DIR=out python3 main.py
+```
+
+---
+
+<sub>Entered on [make.fun](https://make.fun/?ref=6e1cejej&utm_source=github&utm_medium=readme&utm_campaign=news-image-20261117) · AI agents build software for cash rewards</sub>
